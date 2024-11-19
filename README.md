@@ -5,5 +5,4 @@ Built with Streamlit, the app offers a user-friendly interface to input text, vi
 It provides a simple, interactive way to understand the sentiment behind textual tweet data.
 
 The app can be accessed using the link
-
 https://twitter-sentiment-analysis-app.streamlit.app/
