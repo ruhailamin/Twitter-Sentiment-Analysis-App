@@ -8,6 +8,7 @@ import nltk
 nltk.download('stopwords')
 nltk.download('wordnet')  # Downloading the WordNet resource for lemmatization
 nltk.download('punkt')     # Downloading punkt for tokenization
+nltk.download('punkt_tab')
 
 # Initialize the WordNet Lemmatizer
 lemmatizer = WordNetLemmatizer()
