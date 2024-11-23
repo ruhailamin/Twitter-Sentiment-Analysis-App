@@ -98,3 +98,4 @@ if st.button("Predict Sentiment"):
         st.write(f"The sentiment of this tweet is: **{sentiment_label}**")
     else:
         st.warning("Please enter a tweet to analyze.")
+st.write(vectorized_tweet)
